@@ -1,0 +1,38 @@
+body{
+    background-color: cornflowerblue;
+    color: white;
+}
+
+table thead{
+    background-color: #302b63;
+    color: white;
+}
+
+.menu{
+    list-style: none;
+    padding: 0%;
+    background-color: cornflowerblue;
+    width: 90%;
+    max-width: 800px;
+    margin: auto;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: ruby-base;
+}
+
+.menu li{
+    display: inline-block;
+    text-align: center;
+}
+
+.menu li a:hover{
+    background: #302b63;
+}
+
+h1{
+    text-align: center;
+}
